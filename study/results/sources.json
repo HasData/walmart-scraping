@@ -1,0 +1,3083 @@
+{
+ "aggregate": {
+  "cards_fetched": 110,
+  "challenges": 0,
+  "clean_cards": 110,
+  "selectors_core_median": 4,
+  "selectors_field_rates": {
+   "title": 0.973,
+   "price": 0.973,
+   "reviews": 0.964,
+   "rating": 0.0,
+   "image": 0.973
+  },
+  "json_ld_present": 0,
+  "json_ld_leaf_median": 0,
+  "next_data_present": 107,
+  "next_data_leaf_median": 907
+ },
+ "rows": [
+  {
+   "url": "https://www.walmart.com/ip/13-inch-MacBook-Neo-Apple-A18-Pro-chip-with-6-core-CPU-and-5-core-GPU-8GB-256GB-SSD-Blush/19717318352",
+   "challenge": false,
+   "bytes": 525954,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1274,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/13-inch-MacBook-Neo-Apple-A18-Pro-chip-with-6-core-CPU-and-5-core-GPU-8GB-256GB-SSD-Citrus/19699754154",
+   "challenge": false,
+   "bytes": 546645,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1276,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/13-inch-MacBook-Neo-Apple-A18-Pro-chip-with-6-core-CPU-and-5-core-GPU-8GB-512GB-SSD-Touch-ID-Blush/19630116077",
+   "challenge": false,
+   "bytes": 528650,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1283,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/13-inch-MacBook-Neo-Apple-A18-Pro-chip-with-6-core-CPU-and-5-core-GPU-8GB-512GB-SSD-Touch-ID-Indigo/19682700559",
+   "challenge": false,
+   "bytes": 541151,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1299,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/13-inch-MacBook-Neo-Apple-A18-Pro-chip-with-6-core-CPU-and-5-core-GPU-8GB-256GB-SSD-Silver/19664769612",
+   "challenge": false,
+   "bytes": 544322,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1277,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-15-6-N250-4-128-Blue/18638703162",
+   "challenge": false,
+   "bytes": 524173,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1117,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-15-6-N250-4-128-Silver/18634262264",
+   "challenge": false,
+   "bytes": 523160,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1117,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-14-N150-4-128-Blue/18656507313",
+   "challenge": false,
+   "bytes": 526677,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1208,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-14-N150-4-128-Pink/18611919209",
+   "challenge": false,
+   "bytes": 535998,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1086,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Harry-Potter-Hogwarts-Castle-Grounds-76419-Building-Set-Gift-Idea-Adults-Collectible-Playset-Recreate-Iconic-Scenes-Wizarding-World/2627335972",
+   "challenge": false,
+   "bytes": 482503,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 518,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Harry-Potter-Diagon-Alley-Wizarding-Shops-Building-Set-Adults-Collectible-Kit-Harry-Potter-Fans-12-Microfigures-Gift-Idea-Men-Women-Fans-76444/6778851791",
+   "challenge": false,
+   "bytes": 479832,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 673,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Technic-2025-42210/13978102449",
+   "challenge": false,
+   "bytes": 482886,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 689,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-B-2026-72423/18703607769",
+   "challenge": false,
+   "bytes": 472418,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 643,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Speed-Champions-2-Fast-Furious-Nissan-Skyline-GT-R-R34-76917-Race-Car-Toy-Model-Building-Kit-Collectible-Racer-Minifigure-2023-Set-Kids/1265749696",
+   "challenge": false,
+   "bytes": 482547,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 489,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Jurassic-World-76968/14004565561",
+   "challenge": false,
+   "bytes": 494300,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 589,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Disney-Pixar-Up-House-43217-100-Celebration-Classic-Building-Toy-Set-Kids-Movie-Fans-Ages-9-A-Fun-Gift-Anyone-Who-Loves-Creative-Play/1527935978",
+   "challenge": false,
+   "bytes": 483280,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 457,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Speed-Champions-77241/13987718269",
+   "challenge": false,
+   "bytes": 482795,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 554,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-Essential-17-3-FHD-Laptop-AMD-Ryzen-5-7430U-8GB-RAM-256GB-SSD-Windows-11-Home-Silver/20305508298",
+   "challenge": false,
+   "bytes": 568415,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1638,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/NIMO-15-6-IPS-FHD-Gaming-Laptop-8-Cores-AMD-Ryzen-7-8745HS-16GB-DDR5-RAM-512GB-SSD-up-4-9GHz-Beat-R9-7940HS-Radeon-780M-Graphics-100W-Type-C-Backlit/20193669214",
+   "challenge": false,
+   "bytes": 550004,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1308,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Auusda-15-6-Laptop-Computer-16GB-RAM-1TB-SSD-Intel-N95-2-0-3-4-GHz-Windows-11-Pro-Notebook-Backlit-Keyboard-Fingerprint-Unlock-Pink/15821802725",
+   "challenge": false,
+   "bytes": 535730,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 840,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Auusda-16-Business-Laptop-Windows-11-Pro-Computer-AMD-Ryzen-3500U-32GB-RAM-1TB-SSD-Backlit-Keyboard-Fingerprint-Unlock/17805774544",
+   "challenge": false,
+   "bytes": 523846,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 895,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-OmniBook-5-16-inch-2K-Touch-Windows-Laptop-AMD-Ryzen-AI-7-445-16GB-RAM-1TB-SSD-MeteorSilver/18103522734",
+   "challenge": false,
+   "bytes": 537188,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1126,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/RNRUO-14-1-inch-Windows-11-Pro-Business-Laptop-8GB-RAM-256GB-SSD-2-64-GHz-Intel-Pentium-J3710-1920x1080-FHD-WiFi-5-BT5-0-Gray/13175602251",
+   "challenge": false,
+   "bytes": 554887,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 995,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Lenovo-IdeaPad-Slim-3-15-Laptop-AMD-Ryzen-3-8GB-RAM-256GB-SSD-Artic-Grey/18238561637",
+   "challenge": false,
+   "bytes": 511122,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 713,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/15-6-Laptop-Intel-Alder-N95-16GB-RAM-512GB-SSD-Windows-11-Pro-Work-Computer-Fingerprint-Reader-Backlit-Keyboard-Rose/15862967304",
+   "challenge": false,
+   "bytes": 534962,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 924,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-Essential-17-3-HD-Touchscreen-Laptop-Intel-Core-5-120U-16GB-RAM-1TB-SSD-Windows-11-Home-Silver/20589167345",
+   "challenge": false,
+   "bytes": 562234,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1599,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-Essential-14-dq6101dx-Traditional-Laptop-14-HD-Intel-N150-4GB-RAM-128GB-eMMC-Windows-11-Home-Silver/20693622508",
+   "challenge": false,
+   "bytes": 521694,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": false,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1158,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": false,
+     "rating": false,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HP-Stream-14-inch-Windows-Laptop-Intel-Processor-N150-4GB-128GB-eMMC-Pink-12-mo-Microsoft-365-included/13982958746",
+   "challenge": false,
+   "bytes": 539850,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1054,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Pure-Silver-ChromeOS/3193557250",
+   "challenge": false,
+   "bytes": 556334,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1182,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/UKEIN-Black-Laptop-Backpack-Computer-Business-Backpack-for-Adult-Water-Resistant-Anti-Theft-Laptop-Backpack-for-Men/10367772034",
+   "challenge": false,
+   "bytes": 542220,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1366,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Classic-Solid-Color-17-Inch-Backpack-Front-Zipper-Accessory-Pocket-Dual-Zipper-Closure-Padded-Shoulder-Straps-Work-Office-Gym-Sports-Travel-Commute-R/16237872386",
+   "challenge": false,
+   "bytes": 558711,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1580,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Gocvo-Waterproof-Large-Capacity-Bag-Set-Lightweight-Backpack-for-Teens-with-Lunch-Bag-3pcs/15231414503",
+   "challenge": false,
+   "bytes": 552003,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1689,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Eastsport-Ascend-Athleisure-Backpack-Pelican/18885652554",
+   "challenge": false,
+   "bytes": 496189,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1357,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/JanSport-Big-Student-Misty-Rose/1617865777",
+   "challenge": false,
+   "bytes": 599930,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 2943,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/15-Inch-Classic-Solid-Color-Backpack-with-Front-Zippered-Pocket-for-Commuting-and-Travel-in-Black/16362306056",
+   "challenge": false,
+   "bytes": 503976,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 998,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Travelhouse-Travel-Backpack-for-Men-Women-Hiking-Outdoor-Carry-On-with-Packing-Cubes-Black/17525800186",
+   "challenge": false,
+   "bytes": 492233,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 709,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/WATERFLY-Lightweight-Packable-Backpack-20L-Small-Foldable-Travel-Hiking-Camping-Daypack-for-Men-Women-Deep-Blue/5607696728",
+   "challenge": false,
+   "bytes": 555209,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1332,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Levi-Strauss-Signature-Unisex-Adult-Two-Pocket-Backpack-Red-Bandana/18770351890",
+   "challenge": false,
+   "bytes": 120,
+   "selectors": {
+    "title": false,
+    "price": false,
+    "reviews": false,
+    "rating": false,
+    "image": false
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Nike-Varsity-Elite-Unisex-Backpacks-32L-White-Black-Gold/17525059278",
+   "challenge": false,
+   "bytes": 565537,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1614,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/DAKIMOE-School-Backpack/16923065007",
+   "challenge": false,
+   "bytes": 555217,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1738,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/17-Inch-Fun-Printed-Backpack-for-Commute-and-Travel-in-Camouflage/19317565665",
+   "challenge": false,
+   "bytes": 528870,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1347,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Wrangler-Unisex-17-Bandana-Backpack-By-Accessory-Innovations-Blue/18876709723",
+   "challenge": false,
+   "bytes": 498855,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 955,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Marvel-Spider-Man-Toddler-Boys-Backpack-for-School-Kids-Bookbags-Kindergarten-Elementary-College-Backpacks/20007218998",
+   "challenge": false,
+   "bytes": 579272,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 2156,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Weekend-Academy-Girl-s-Cargo-Backpack-Olive-Abstract-Camo/18974663892",
+   "challenge": false,
+   "bytes": 451413,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 655,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Thyme-Table-2-Slice-Toaster-Slate/14340663614",
+   "challenge": false,
+   "bytes": 534000,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1544,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/BLACK-DECKER-2-Slice-Toaster-Black-Stainless-Steel-with-Removable-Tray/5090284866",
+   "challenge": false,
+   "bytes": 497132,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 668,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/BLACK-DECKER-4-Slice-Toaster-Black-and-Silver-with-Extra-Wide-Slots/5105358150",
+   "challenge": false,
+   "bytes": 482063,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 669,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Mainstays-2-Slice-Toaster-Arctic-White/5151909675",
+   "challenge": false,
+   "bytes": 499864,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1043,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Hamilton-Beach-2-Slice-Toaster-with-Wide-Slots-Bagel-Function-Toast-Boost-Stainless-New-22997F/1001984418",
+   "challenge": false,
+   "bytes": 510199,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1061,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Mecity-2-Slice-Touchscreen-Toaster-Stainless-Steel-6-Shade-Settings-Reheat-Cancel-Defrost-Removable-Tray/5267500084",
+   "challenge": false,
+   "bytes": 579533,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1634,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/BLACK-DECKER-2-Slice-Toaster-Extra-Wide-Slots-Bagel-Function/5105358149",
+   "challenge": false,
+   "bytes": 493931,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 692,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/2-Slice-ToasterTR0012SS/660039685",
+   "challenge": false,
+   "bytes": 489714,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 798,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Suodoka-Toaster-4-Slice-Touchscreen-Stainless-Steel-Bread-Toaster-6-Browning-Shade-Settings-1-57-inch-Wide-Slots-Reheat-Cancel-Defrost-Functions-New/8911153355",
+   "challenge": false,
+   "bytes": 505725,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 622,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/2-Slice-Toaster-Quick-Even-Results-Every-Time-Wide-Slots-Fit-Any-Size-Bread-Drop-Down-Crumb-Tray-for-Easy-Clean-Up-Stainless-Steel/17359355122",
+   "challenge": false,
+   "bytes": 466990,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 490,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Chefman-Smart-Touch-2-Slice-Digital-Toaster-with-6-Touchscreen-Shade-Settings-Stainless-Steel-New/6908908973",
+   "challenge": false,
+   "bytes": 491593,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 678,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Hamilton-Beach-Contemporary-2-Slice-Toaster-with-Wide-Slots-Bagel-Function-Toast-Boost-Auto-Shutoff-Sandstone/19299766028",
+   "challenge": false,
+   "bytes": 500782,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 892,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Suodoka-Toaster-2-Slice-Wide-Slots-Touchscreen-6-Shade-Settings-Stainless-Steel-Bread-Toaster-with-Reheat-Cancel-Defrost-New/8944656612",
+   "challenge": false,
+   "bytes": 491001,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 523,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Beautiful-2-Slice-Toaster-with-Touch-Activated-Display-White-Icing-by-Drew-Barrymore/872653889",
+   "challenge": false,
+   "bytes": 554646,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1558,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Mainstays-4-Slice-Toaster-Black-with-6-Shade-Settings-and-Removable-Crumb-Tray/3768919920",
+   "challenge": false,
+   "bytes": 470956,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 699,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Acer-Nitro-V-15-6-Full-HD-1920-x-1080-widescreen-LED-Gaming-Laptop-16GB-RAM-512GB-SSD-Intel-Core-5-NVIDIA-GeForce-RTX-4050-ANV15-52-58P7-Black-New/18152421598",
+   "challenge": false,
+   "bytes": 539164,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 719,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Lenovo-V14-Gen-4-14-FHD-Business-Laptop-AMD-Ryzen-7-7730U-16GB-RAM-512GB-SSD-Windows-11-Pro-Black/20765404591",
+   "challenge": false,
+   "bytes": 535426,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1298,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Lenovo-ThinkPad-T14-14-FHD-Laptop-Intel-Core-Ultra-7-155U-16GB-DDR5-1TB-SSD-Windows-11-Pro/20177221766",
+   "challenge": false,
+   "bytes": 541973,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1377,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Minecraft-Crafting-Table-Video-Game-Building-Set-Minecraft-Figures-Mobs-Biomes-15-Year-Anniversary-Model-Minecraft-Gift-Idea-Adults-21265/5296261876",
+   "challenge": false,
+   "bytes": 483692,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 446,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Classic-Medium-Creative-Brick-Box/41004055",
+   "challenge": false,
+   "bytes": 476968,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 509,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-MRMW-2026-43020/17096302616",
+   "challenge": false,
+   "bytes": 469694,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 498,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Icons-How-to-Train-Your-Dragon-Toothless-10375/17115306492",
+   "challenge": false,
+   "bytes": 120,
+   "selectors": {
+    "title": false,
+    "price": false,
+    "reviews": false,
+    "rating": false,
+    "image": false
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Technic-2026-42227/17067869480",
+   "challenge": false,
+   "bytes": 477544,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 641,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Marvel-Captain-America-Civil-War-Action-Battle-Building-Toy-Set-Marvel-Superhero-Toy-Kids-Boys-Girls-Ages-10-8-Minifigures-Giant-Ant-Man-Gift-Id/6778701459",
+   "challenge": false,
+   "bytes": 481764,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 585,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/LEGO-Botanicals-10349/13987768177",
+   "challenge": false,
+   "bytes": 480394,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 635,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/True-Open-Ear-Headphones-OWS-Hanging-Earphones-Wireless-Earbuds-Earhooks-Mic-36H-Playtime-Wireless-Earbuds-Lightweight-Design-Fit-Cycling-Running-Wor/16136959475",
+   "challenge": false,
+   "bytes": 538233,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 843,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Bluetooth-Headphones-4-Mic-Noise-Cancelling-Calls-Wireless-Earbuds-2200mAh-Charging-Case-Support-Wireless-Charging-Compatible-iPhone-13-Pro-Max-XS-XR/17705823295",
+   "challenge": false,
+   "bytes": 564942,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1394,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Bluey-Bluetooth-Headphones-with-Bonus-Cord/13926223539",
+   "challenge": false,
+   "bytes": 494655,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 714,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/AirPods-Pro-3/17835006350",
+   "challenge": false,
+   "bytes": 508876,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 831,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Beats-by-Dr-Dre-Studio-Pro-Wireless-Headphones-Matte-White-Bundle/14280620660",
+   "challenge": false,
+   "bytes": 538717,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1170,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Wireless-Earbuds-Bluetooth-Headphones-5-4-HiFi-Stereo-Wireless-Earphones-ENC-Noise-Cancelling-Mic-IP7-Waterproof-Ear-Wireless-Headphones-LED-Digital/16175205841",
+   "challenge": false,
+   "bytes": 615941,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1840,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/2-4GHz-Wireless-Gaming-Headset-PS4-PS5-Xbox-Switch-PC-Bluetooth-Ear-Headphones-ENC-Noise-Cancelling-Mic-7-1-Stereo-Surround-Sound-40mm-Drivers-RGB-Li/19142210791",
+   "challenge": false,
+   "bytes": 527960,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 843,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Monster-Wireless-Earbuds-Comfort-Clip-On-Bluetooth-Earbuds-Open-Ear-Earbuds-Environmental-Noise-Cancellation-IPX5-Waterproof-Touch-Control-Wireless-H/13659714125",
+   "challenge": false,
+   "bytes": 526464,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 878,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Apple-AirPods-4/11381374703",
+   "challenge": false,
+   "bytes": 506485,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 686,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Apple-AirPods-4-with-Active-Noise-Cancellation/11384707978",
+   "challenge": false,
+   "bytes": 515022,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 811,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/DOOGEE-Bone-Conduction-Headphones-Running-Headphones-Open-Ear-Headphones-Sports-Safety-LED-Light-IP66-Waterproof-Bluetooth-6-0-10H-Playtime-Adjustabl/19992256425",
+   "challenge": false,
+   "bytes": 511098,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 851,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/BlackBlackBlackBlackBlackBlack/15837255885",
+   "challenge": false,
+   "bytes": 494338,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 646,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/JLab-JBuds-Lux-Bluetooth-over-ear-Headphones-w-Active-Noise-Cancellation-Mauve/5421040376",
+   "challenge": false,
+   "bytes": 150,
+   "selectors": {
+    "title": false,
+    "price": false,
+    "reviews": false,
+    "rating": false,
+    "image": false
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Skullcandy-Jib-XT-Wired-in-Ear-Earbuds-with-Microphone-Black/1496314895",
+   "challenge": false,
+   "bytes": 529775,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 996,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Bluetooth-Noise-Canceling-Over-Ear-Headphones-Green/630316173",
+   "challenge": false,
+   "bytes": 557877,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1264,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Backpack-Camping-Hiking-Daypacks-30L-Lightweight-Packable-Hiking-Backpack-Travel-Backpack-for-Women-Men-Bookbags-Green/15726321906",
+   "challenge": false,
+   "bytes": 504363,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 948,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Gocvo-Waterproof-Large-Capacity-Bag-Set-Lightweight-Backpack-for-Teens-with-Lunch-Bag-3pcs/15242610278",
+   "challenge": false,
+   "bytes": 564682,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1663,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/17-Inch-Fun-Printed-Backpack-for-Commute-and-Travel-in-Game-Controllers-Print/19311717376",
+   "challenge": false,
+   "bytes": 527860,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1315,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/AoDai-University-high-school-fashion-student-backpack-practical-and-spacious-backpack-suitable-for-university-and-middle-school/20454005828",
+   "challenge": false,
+   "bytes": 501610,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 907,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Wrangler-Unisex-17-Almond-Milk-Sunset-Backpack-By-Accessory-Innovations-Beige/18945657016",
+   "challenge": false,
+   "bytes": 489716,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 905,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Mecity-4-Slice-Touchscreen-Toaster-Retro-Stainless-Steel-Wide-Slots-Toaster-6-Browning-Settings-Large-Digital-Display-120V-1650W-Black/20082565965",
+   "challenge": false,
+   "bytes": 553193,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1622,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Mainstays-2-Slice-Toaster-with-6-Shade-Settings-and-Removable-Crumb-Tray-Black/1233603801",
+   "challenge": false,
+   "bytes": 512631,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1040,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/2-Slice-Toaster-Quick-Even-Results-Every-Time-Wide-Slots-Fit-Any-Size-Bread-Drop-Down-Crumb-Tray-for-Easy-Clean-Up/19106609700",
+   "challenge": false,
+   "bytes": 457038,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 490,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Toastmaster-2-Slice-Digital-Toaster-Sage-Fog-900W/19671414406",
+   "challenge": false,
+   "bytes": 520045,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 896,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Nostalgia-Classic-Retro-2-Slice-Toaster-Aqua/20197701110",
+   "challenge": false,
+   "bytes": 533961,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1149,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Suodoka-2-Slice-Digital-Toaster-with-Touch-Control-6-Shade-Settings-Bagel-Defrost-Reheat-Functions-5-51-Inch-Slots/19832316427",
+   "challenge": false,
+   "bytes": 459117,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 509,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Toshiba-6-in-1-Inverter-Microwave-Oven-Air-Fryer-Combo-0-9-cu-ft-11-3-Turntable-27-Auto-Menu-Stainless-Steel/1212776612",
+   "challenge": false,
+   "bytes": 512232,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 718,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Toshiba-1-cu-ft-Countertop-Microwave-Ovens-in-Silver/3633707686",
+   "challenge": false,
+   "bytes": 499920,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 732,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/1-3-Cu-Ft-MWO/16266162322",
+   "challenge": false,
+   "bytes": 486041,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 468,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Mainstays-0-7-Cu-ft-Countertop-Microwave-Oven-700-Watts-Black/5125973778",
+   "challenge": false,
+   "bytes": 509057,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 969,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/HB-1-1-MWO-SS/16437362663",
+   "challenge": false,
+   "bytes": 509250,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 950,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Panasonic-1-6-cu-ft-1250W-Countertop-Microwave-with-Inverter-Technology-White-NN-SN74PW/11246360908",
+   "challenge": false,
+   "bytes": 507880,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 714,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Chefman-Countertop-Microwave-Oven-0-9-Cu-Ft-900-Watts-with-6-Presets-and-10-Power-Levels-Black-New/15559563495",
+   "challenge": false,
+   "bytes": 509475,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 847,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Chefman-Countertop-Microwave-Oven-1-1-Cu-Ft-1000-Watts-with-6-Presets-and-10-Power-Levels-Black/18733263442",
+   "challenge": false,
+   "bytes": 484916,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 509,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Hamilton-Beach-0-9-Cu-ft-Countertop-Microwave-Oven-900-Watts-Stainless-Steel-New/5125269950",
+   "challenge": false,
+   "bytes": 526855,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1139,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Hamilton-Beach-1-1-Cu-ft-Countertop-Microwave-Oven-White-and-Stainless-Steel/5152711088",
+   "challenge": false,
+   "bytes": 490916,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 809,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Nostalgia-Retro-0-7-Cu-Ft-Microwave-Pink/18031012282",
+   "challenge": false,
+   "bytes": 531985,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1286,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Farberware-Countertop-Microwave-Oven-700W-0-7-Cu-Ft-Capacity-Compact-Design-with-Turntable-Digital-Display-Auto-Cook-Functions-White/15115868306",
+   "challenge": false,
+   "bytes": 529609,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 1072,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Hamilton-Beach-1-6-Cu-ft-Sensor-Cook-Countertop-Microwave-Oven-in-Stainless-Steel-New/5095597310",
+   "challenge": false,
+   "bytes": 484983,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 536,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/Mainstays-Ms-0-7cf-Retro-Mwo/18918224101",
+   "challenge": false,
+   "bytes": 482051,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 544,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  },
+  {
+   "url": "https://www.walmart.com/ip/MS-1-1-BLACK-MWO/16456119851",
+   "challenge": false,
+   "bytes": 479707,
+   "selectors": {
+    "title": true,
+    "price": true,
+    "reviews": true,
+    "rating": false,
+    "image": true
+   },
+   "json_ld": {
+    "present": false,
+    "leaf_fields": 0,
+    "core": {}
+   },
+   "next_data": {
+    "present": true,
+    "leaf_fields": 666,
+    "core": {
+     "title": true,
+     "price": true,
+     "reviews": true,
+     "rating": true,
+     "image": true
+    }
+   }
+  }
+ ]
+}
