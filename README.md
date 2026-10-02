@@ -2,7 +2,7 @@
 
 ![HasData, the web scraping API the examples fetch through](banner.png)
 
-Working Python examples for Walmart product data, from collecting card URLs off the search pages to a complete scraper, plus a measured comparison of the three places the same product data lives on a card. The written tutorial is [Web Scraping Walmart Using Python](https://hasdata.com/blog/web-scraping-walmart-using-python).
+Working Python examples for Walmart product data, from collecting card URLs off the search pages to a complete scraper, plus a measured comparison of the three places the same product data lives on a card. The written tutorial is [Web Scraping Walmart Using Python](https://hasdata.com/blog/web-scraping-walmart-using-python?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-walmart-using-python&utm_content=walmart-scraping-readme).
 
 ## Table of Contents
 
@@ -55,9 +55,9 @@ The visible markup carries a handful of fields while the embedded JSON carries t
 
 ## Disclaimer
 
-The scripts fetch publicly visible product pages. Whether and how such collection is appropriate depends on jurisdiction, the site, and the use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal) covers how we think about the question.
+The scripts fetch publicly visible product pages. Whether and how such collection is appropriate depends on jurisdiction, the site, and the use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-walmart-using-python&utm_content=walmart-scraping-readme) covers how we think about the question.
 
 ## More Resources
 
-- [Web Scraping Walmart Using Python](https://hasdata.com/blog/web-scraping-walmart-using-python), the tutorial these examples come from
-- [Scraping Amazon Product Data Using Python](https://hasdata.com/blog/scraping-amazon-product-data-using-python), the same approach on the other marketplace
+- [Web Scraping Walmart Using Python](https://hasdata.com/blog/web-scraping-walmart-using-python?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-walmart-using-python&utm_content=walmart-scraping-readme), the tutorial these examples come from
+- [Scraping Amazon Product Data Using Python](https://hasdata.com/blog/scraping-amazon-product-data-using-python?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-walmart-using-python&utm_content=walmart-scraping-readme), the same approach on the other marketplace
